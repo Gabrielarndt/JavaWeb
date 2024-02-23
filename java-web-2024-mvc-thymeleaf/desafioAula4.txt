@@ -1,0 +1,3 @@
+Criar endpoint para cadastrar, alterar, consultar e excluir locais
+
+A entidade local deve ter:id, nome, rua, bairro, cidade, cep e fone.

@@ -1,0 +1,5 @@
+Desafio 1:
+- Verificar se já existe um veiculo com a placa informada
+
+Desafio 2:
+- Criar um crude de clientes
